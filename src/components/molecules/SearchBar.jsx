@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Input from "@/components/atoms/Input";
 import Button from "@/components/atoms/Button";
-import AppIcon from "@/components/atoms/AppIcon";
+import AppIcon from "@/components/AppIcon";
 const SearchBar = ({ onSearch, placeholder = "Search by location, property type, or features...", className = '' }) => {
   const [searchTerm, setSearchTerm] = useState('');
 
@@ -27,9 +27,9 @@ const SearchBar = ({ onSearch, placeholder = "Search by location, property type,
         />
         {searchTerm && (
           <button
-            type="button"
+type="button"
             onClick={handleClear}
-className="absolute right-3 top-4 text-gray-400 hover:text-gray-600"
+            className="absolute right-3 top-4 text-gray-400 hover:text-gray-600"
           >
             <AppIcon name="X" className="w-5 h-5" />
           </button>

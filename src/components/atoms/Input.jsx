@@ -1,6 +1,5 @@
-import { useState } from 'react';
-import ApperIcon from '@/components/ApperIcon';
-
+import { useState } from 'react'
+import ApperIcon from '@/components/ApperIcon'
 const Input = ({
   label,
   type = 'text',
