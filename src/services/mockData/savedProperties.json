@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "propertyId": "1",
+    "savedDate": "2024-01-16T00:00:00.000Z",
+    "notes": "Great location for commuting to work. Love the downtown vibe."
+  },
+  {
+    "Id": 2,
+    "propertyId": "3",
+    "savedDate": "2024-01-14T00:00:00.000Z",
+    "notes": "Amazing views but might be out of budget. Need to think about it."
+  },
+  {
+    "Id": 3,
+    "propertyId": "5",
+    "savedDate": "2024-01-11T00:00:00.000Z",
+    "notes": "Perfect for outdoor lifestyle. Close to hiking trails."
+  }
+]

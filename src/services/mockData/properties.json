@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "title": "Modern Downtown Loft",
+    "price": 875000,
+    "address": "123 Harbor View Street, Seattle, WA 98101",
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1450,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning modern loft in the heart of downtown with floor-to-ceiling windows and breathtaking city views. This sophisticated urban retreat features an open-concept design with premium finishes throughout.",
+    "features": [
+      "Floor-to-ceiling windows",
+      "Hardwood floors",
+      "Stainless steel appliances",
+      "In-unit washer/dryer",
+      "Rooftop deck access",
+      "Parking space included"
+    ],
+    "yearBuilt": 2019,
+    "listingDate": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "title": "Charming Victorian Home",
+    "price": 1250000,
+    "address": "456 Elm Street, Portland, OR 97205",
+    "coordinates": {
+      "lat": 45.5152,
+      "lng": -122.6784
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautifully restored Victorian home in prestigious Nob Hill neighborhood. Original architectural details blend seamlessly with modern amenities in this one-of-a-kind property.",
+    "features": [
+      "Original hardwood floors",
+      "Bay windows",
+      "Chef's kitchen",
+      "Master suite with walk-in closet",
+      "Private garden",
+      "Two-car garage"
+    ],
+    "yearBuilt": 1895,
+    "listingDate": "2024-01-12T00:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Luxury Waterfront Condo",
+    "price": 2100000,
+    "address": "789 Marina Boulevard, San Francisco, CA 94123",
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2200,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688618-c0c4a8c46650?w=800&h=600&fit=crop"
+    ],
+    "description": "Exceptional waterfront living with panoramic bay views. This luxury condominium offers the finest in San Francisco living with premium amenities and world-class design.",
+    "features": [
+      "Panoramic bay views",
+      "Premium kitchen appliances",
+      "Marble bathrooms",
+      "Private balcony",
+      "Concierge service",
+      "Fitness center access"
+    ],
+    "yearBuilt": 2020,
+    "listingDate": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Suburban Family Home",
+    "price": 695000,
+    "address": "321 Oak Avenue, Austin, TX 78704",
+    "coordinates": {
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFeet": 2400,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753364-3cc64ac2362f?w=800&h=600&fit=crop"
+    ],
+    "description": "Perfect family home in a quiet neighborhood with excellent schools nearby. This well-maintained property offers comfortable living spaces and a large backyard for outdoor activities.",
+    "features": [
+      "Open floor plan",
+      "Updated kitchen",
+      "Large backyard",
+      "Two-car garage",
+      "Walk-in closets",
+      "Covered patio"
+    ],
+    "yearBuilt": 2010,
+    "listingDate": "2024-01-08T00:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "title": "Mountain View Retreat",
+    "price": 950000,
+    "address": "987 Pine Ridge Drive, Denver, CO 80205",
+    "coordinates": {
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1900,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753076-00ac480b4b2d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600573472740-0ab5e1c8f997?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning mountain views and modern amenities combine in this contemporary home. Located in a prestigious neighborhood with easy access to hiking trails and outdoor recreation.",
+    "features": [
+      "Mountain views",
+      "Vaulted ceilings",
+      "Fireplace",
+      "Deck with views",
+      "Updated appliances",
+      "Attached garage"
+    ],
+    "yearBuilt": 2015,
+    "listingDate": "2024-01-05T00:00:00.000Z"
+  }
+]
